@@ -27,7 +27,6 @@ resetBtn.addEventListener('click' ,function () {
     displayMessage.textContent = '';
     resetBtn.textContent = 'New Colors';
 });
-
 easyBtn.addEventListener('click', function () {
     heardBtn.classList.remove('selected');
     easyBtn.classList.add('selected');
