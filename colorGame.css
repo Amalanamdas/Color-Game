@@ -1,0 +1,30 @@
+body {
+    background-color: #232323;
+}
+
+ h1 {
+     color: whitesmoke;
+     text-align: center;
+     background-color: steelblue;
+ }
+
+ .square {
+     width: 30%;
+     padding-bottom: 30%;
+     float: left;
+     margin: 1.66% ;
+ }
+
+ #container {
+     max-width: 600px;
+     margin: 0 auto;
+ }
+
+ #message {
+     color: whitesmoke;
+
+ }
+
+ .container {
+     margin: 0 auto;
+ }
